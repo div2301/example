@@ -1,4 +1,4 @@
 # example
 example repo
 <br>
-Author - Divyam Behal
+Author - Divyam
